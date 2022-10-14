@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @BrightOlawale
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python, C, JavaScript.
-- 💞️ I’m looking to collaborate on anything that can improve my skill
+- 👋 Hi, I’m Olawale Bright
+- 👀 I’m interested in Software Development, Cloud Development and Infrastructure.
+- 🌱 I’m currently learning Python, C, JavaScript, DevOps.
+- 💞️ I’m looking to collaborate on projects in Software development and Cloud development.
+- I talk about anything Cloud development and devops.
 - 📫 How to reach me oolawalebright@gmail.com
+- I love playing Football and Tennis.
 
 <!---
 BrightOlawale/BrightOlawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
