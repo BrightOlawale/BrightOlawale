@@ -2,9 +2,9 @@
 - 👀 I’m interested in Software Development, Cloud Development and Infrastructure.
 - 🌱 I’m currently learning Python, C, JavaScript, DevOps.
 - 💞️ I’m looking to collaborate on projects in Software development and Cloud development.
-- I talk about anything Cloud development and devops.
+- 📢 I talk about anything Cloud development and devops.
 - 📫 How to reach me oolawalebright@gmail.com
-- I love playing Football and Tennis.
+- 🪐 I love playing ⚽ and 🥎.
 
 <!---
 BrightOlawale/BrightOlawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
