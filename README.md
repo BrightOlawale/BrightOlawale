@@ -11,7 +11,7 @@ I'm a software engineer who loves working on backend projects and exploring the 
 ### Fun Facts
 - **📢 Conversations:** I love discussing Cloud, Software Development, and DevOps. If you have any insights or ideas, I'd love to hear them.
 - **📫 Contact Me:** Feel free to reach out at [oolawalebright@gmail.com](mailto:oolawalebright@gmail.com).
-- **🪐 Hobbies:** When I'm not coding, I enjoy playing soccer ⚽ and baseball 🥎.
+- **🪐 Hobbies:** When I'm not coding, I enjoy playing football ⚽ and tennis 🥎.
 
 ### Technical Skills
 - **🔧 Tech Stack:** Node.js | Go | Python | C | Docker | Kubernetes | AWS | GCP | Azure
