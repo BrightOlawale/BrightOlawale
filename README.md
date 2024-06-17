@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Olawale Bright
+## 👋 Hi there! I'm Bright Olawale
 
 ### About Me
 I'm a software engineer who loves working on backend projects and exploring the world of Cloud Engineering. I enjoy coding in Node, Go, Python, and C, and I'm always looking to learn and grow.
